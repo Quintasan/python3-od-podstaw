@@ -34,7 +34,7 @@ krok:  8
 
 ## Z listą albo krotką
 
-```
+```python
 lista = [1, "a", 2.3]
 krotka = (1, "a", 2.3)
 >>> for element in lista:
@@ -53,7 +53,7 @@ a
 
 Możemy to zrobić w trochę bardziej pokrętny sposób:
 
-```
+```python
 lista = [1, "a", 2.3]
 >>> for i in range(0, 3):
 ...     print(lista[i])
@@ -65,7 +65,7 @@ a
 
 Iterować możemy też po stringu albo słowniku:
 
-```
+```python
 >>> for i in "Ala ma kota.":
 ...     print(i)
 ...
