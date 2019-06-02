@@ -7,3 +7,4 @@
 3. [Typy danych](03-data-types.md)
 4. [Instrukcje warunkowe](04-flow-control.md)
 5. [Pętla `for`](05-for-loop.md)
+6. [Zadanie domowe](06-homework.md)
