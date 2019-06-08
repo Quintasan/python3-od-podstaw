@@ -30,7 +30,7 @@ def f2(first, second, third, *rest):
 
 ## Argumenty kluczowe
 
-```
+```python
 def funkcja(pierwszy, drugi, trzeci, **opcje):
     if opcje.get("akcja") == "dodaj":
         print "Suma to: %d" % (pierwszy + drugi + trzeci)
