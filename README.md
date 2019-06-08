@@ -8,3 +8,6 @@
 4. [Instrukcje warunkowe](04-flow-control.md)
 5. [Pętla `for`](05-for-loop.md)
 6. [Zadanie domowe](06-homework.md)
+7. [List comprehension](07-list-comprehension.md)
+8. [Funkcje i wyjątki](08-functions-and-exceptions.md)
+9. [Funkcje o zmiennej liczbie argumentów](09-variadic-functions.md)
