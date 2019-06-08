@@ -79,3 +79,5 @@ def dziel(a,b):
 dziel(10,0)
 Nie dziel przez zero, cholero!
 ```
+
+Python 3 ma dużo różnych wbudowanych wyjątków - https://docs.python.org/3/library/exceptions.html#bltin-exceptions
