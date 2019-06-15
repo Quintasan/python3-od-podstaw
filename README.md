@@ -12,7 +12,4 @@
 8. [Funkcje i wyjątki](08-functions-and-exceptions.md)
 9. [Funkcje o zmiennej liczbie argumentów](09-variadic-functions.md)
 10. [Zadanie domowe](10-homework.md)
-
-## Inne linki
-
-* [Tutorial Pythona](https://docs.python.org/3/tutorial/index.html)
+99. [Dodatkowe materiały](99-additional-materials.md)
